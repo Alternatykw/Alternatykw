@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mateusz!
 
-<!--
-**Alternatykw/Alternatykw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **junior front-end developer** passionate about crafting web apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- 🛠️ **Main Technologies:** Node.js, React, Material UI
+- 📦 **Learning:** TypeScript and other tech mentioned in my ["CV"](https://alternatykw.github.io), i'd love to learn hard stuff like PixiJS or three.js too.
+
+---
+
+## 📂 Projects
+
+Here are a few things I've built recently:
+
+-  [League Custom Games Viewer](https://nowa-fala.vercel.app) – Website for checking customs i played with friends.
+-  [CV](https://alternatykw.github.io) – Simple CV built in vanilla JS.
+-  [Recipe Finder](https://projekt-programowanie-aplikacji-internetowych.vercel.app) – interactive tool to visualize layout behavior
+
+---
+
+## 🤝 Contact me!
+
+- 📧 mateusz.wrobel2@wp.pl
+
+---
+
+Thanks for visiting! 😊
