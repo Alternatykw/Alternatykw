@@ -27,4 +27,4 @@ Here are a few things I've built recently:
 
 ---
 
-Thanks for visiting! 😊
+Thanks for visiting! Feel free to check my other projects or my [diploma thesis](https://www.overleaf.com/read/smdwgfhwryyv#a0e7a7) 😊
