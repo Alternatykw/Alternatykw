@@ -17,7 +17,7 @@ Here are a few things I've built recently:
 
 -  [League Custom Games Viewer](https://nowa-fala.vercel.app) – Website for checking customs i played with friends.
 -  [CV](https://alternatykw.github.io) – Simple CV built in vanilla JS.
--  [Recipe Finder](https://projekt-programowanie-aplikacji-internetowych.vercel.app) – interactive tool to visualize layout behavior
+-  [Recipe Finder](https://projekt-programowanie-aplikacji-internetowych.vercel.app) – Recipe finder with Edamam API.
 
 ---
 
