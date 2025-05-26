@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mateusz!
 
-I'm a **junior front-end developer** passionate about crafting web apps.
+I'm a **junior front-end developer** passionate about crafting web apps as well as creating useful programs such as Discord bots.
 
 ---
 
