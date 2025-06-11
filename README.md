@@ -1,17 +1,17 @@
-# 👋 Hi there, I'm Mateusz!
+# Hi there, I'm Mateusz!
 
 I'm a **junior front-end developer** passionate about crafting web apps as well as creating useful programs such as Discord bots.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-- 🛠️ **Main Technologies:** Node.js, React, Material UI
-- 📦 **Learning:** TypeScript and other tech mentioned in my ["CV"](https://alternatykw.github.io), i'd love to learn hard stuff like PixiJS or three.js too.
+-  **Main Technologies:** Node.js, React, Material UI
+-  **Learning:** TypeScript and other tech mentioned in my ["CV"](https://alternatykw.github.io), i'd love to learn hard stuff like PixiJS or three.js too.
 
 ---
 
-## 📂 Projects
+## Projects
 
 Here are a few things I've built recently:
 
@@ -21,7 +21,7 @@ Here are a few things I've built recently:
 
 ---
 
-## 🤝 Contact me!
+## Contact me!
 
 - 📧 mateusz.wrobel2@wp.pl
 
